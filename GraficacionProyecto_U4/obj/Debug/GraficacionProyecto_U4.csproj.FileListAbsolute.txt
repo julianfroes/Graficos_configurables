@@ -1,0 +1,11 @@
+C:\Users\Julian\source\repos\GraficacionProyecto_U4\GraficacionProyecto_U4\bin\Debug\GraficacionProyecto_U4.exe.config
+C:\Users\Julian\source\repos\GraficacionProyecto_U4\GraficacionProyecto_U4\bin\Debug\GraficacionProyecto_U4.exe
+C:\Users\Julian\source\repos\GraficacionProyecto_U4\GraficacionProyecto_U4\bin\Debug\GraficacionProyecto_U4.pdb
+C:\Users\Julian\source\repos\GraficacionProyecto_U4\GraficacionProyecto_U4\obj\Debug\GraficacionProyecto_U4.csproj.AssemblyReference.cache
+C:\Users\Julian\source\repos\GraficacionProyecto_U4\GraficacionProyecto_U4\obj\Debug\GraficacionProyecto_U4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julian\source\repos\GraficacionProyecto_U4\GraficacionProyecto_U4\obj\Debug\GraficacionProyecto_U4.Form1.resources
+C:\Users\Julian\source\repos\GraficacionProyecto_U4\GraficacionProyecto_U4\obj\Debug\GraficacionProyecto_U4.Properties.Resources.resources
+C:\Users\Julian\source\repos\GraficacionProyecto_U4\GraficacionProyecto_U4\obj\Debug\GraficacionProyecto_U4.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\GraficacionProyecto_U4\GraficacionProyecto_U4\obj\Debug\GraficacionProyecto_U4.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\GraficacionProyecto_U4\GraficacionProyecto_U4\obj\Debug\GraficacionProyecto_U4.exe
+C:\Users\Julian\source\repos\GraficacionProyecto_U4\GraficacionProyecto_U4\obj\Debug\GraficacionProyecto_U4.pdb
